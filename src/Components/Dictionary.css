@@ -92,10 +92,12 @@ form{
     }
     .search-box input{
         font-size: 18px;
+        width: 70px;
     }
     .search-box button{
         font-size: 18px;
         padding: 15px 10px;
+        width: 30px;
     }
     .result h3{
         font-size: 30px;
