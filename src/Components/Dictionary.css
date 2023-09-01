@@ -83,9 +83,6 @@ form{
 
 
 @media screen and (max-width:960px) {
-    .me{
-        /* height: 0vh; */
-    }
     .container{
         width: 90%;
         padding: 30px;
